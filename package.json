@@ -1,0 +1,27 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnbupt/webpack-starter.git"
+  },
+  "keywords": [
+    "webpack",
+    "starter"
+  ],
+  "author": "wnbupt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wnbupt/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/wnbupt/webpack-starter#readme",
+  "devDependencies": {
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
